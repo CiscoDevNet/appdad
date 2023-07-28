@@ -242,7 +242,7 @@ If anamolies were detected, you will see updates to the following and will see y
 
 For more info on Monitoring Anamolies, please refer to:
 
-[Monitor Anamolies](https://docs.appdynamics.com/fso/cloud-native-app-obs/en/monitor-entity-health/anomaly-detection/monitor-anomalies)).
+[Monitor Anamolies](https://docs.appdynamics.com/fso/cloud-native-app-obs/en/monitor-entity-health/anomaly-detection/monitor-anomalies).
 
 ### De-provisioning
 
