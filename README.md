@@ -238,7 +238,7 @@ Before you run the java utility listed below, make sure you have terminated the 
 
 If anamolies were detected, you will see updates to the following and will see your AD Configuration flagged here:
 
-![alt text](https://github.com/prathjan/images/blob/main/hostlist.png?raw=true)
+![alt text](https://github.com/prathjan/images/blob/main/metuicl.png?raw=true)
 
 For more info on Monitoring Anamolies, please refer to:
 
