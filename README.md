@@ -1,4 +1,4 @@
-# Use Anomaly Detection to Monitor Entity Health with Cloud Native Application Observability(CNAO)
+# Use Anomaly Detection to Monitor Entity Health with Cloud Cloud Observability
 ## Contents
         Use Cases
         Pre-requisites, Guidelines
@@ -19,7 +19,7 @@
 
 ### Pre-requisites, Guidelines
 
-1. Requires Cloud Native Application Observability Tenant, ClientID and Secret. For the purposes of this exercise, we will reserve a sandbox and get the required data from it.
+1. Requires Cloud Cloud Observability Tenant, ClientID and Secret. For the purposes of this exercise, we will reserve a sandbox and get the required data from it.
 
 https://dcloud2-rtp.cisco.com/content/instantdemo/appdynamics-observability-in-aws
 
