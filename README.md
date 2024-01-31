@@ -1,4 +1,4 @@
-# Use Anomaly Detection to Monitor Entity Health with Cloud Cloud Observability
+# Use Anomaly Detection to Monitor Entity Health with Cisco Cloud Observability Platform
 ## Contents
         Use Cases
         Pre-requisites, Guidelines
@@ -11,7 +11,7 @@
         De-provisioning
 
 ### Use Cases
-        * As a Cloud Admin, you have already provisioned cloud connections to AWS leveraging AppD 
+        * As a Cloud Admin, you have already provisioned cloud connections to AWS leveraging Cisco Cloud Observability 
         Cloud Connections API to pull metrics data from AWS Services (Load 
         Balancers, Storage, Hosts, Databases)
         * As Infra Ops, set up anomaly detection for AWS EC2 instances to alert on thresholds exceeded for CPU Utilization
@@ -19,7 +19,7 @@
 
 ### Pre-requisites, Guidelines
 
-1. Requires Cloud Cloud Observability Tenant, ClientID and Secret. For the purposes of this exercise, we will reserve a sandbox and get the required data from it.
+1. Requires Cisco Cloud Observability Tenant, ClientID and Secret. For the purposes of this exercise, we will reserve a sandbox and get the required data from it.
 
 https://dcloud2-rtp.cisco.com/content/instantdemo/appdynamics-observability-in-aws
 
@@ -135,7 +135,7 @@ You will see the following files in the datagen directory: <your_local_datagen_d
 
 It takes 48 hours for Anomaly Detection to become available for your monitored entities. During that time, the machine learning models train on the entities in your application.
 
-We will not be able to wait for 48 hours for the machine learning to complete in this learning lab due to its limited activity time. However, we will cover the utilities and methodologies that you can use in your own AppDynamics Platform to experiment with this.
+We will not be able to wait for 48 hours for the machine learning to complete in this learning lab due to its limited activity time. However, we will cover the utilities and methodologies that you can use in your own Cisco Cloud Observability Platform to experiment with this.
 
 To generate some utilization data that is in the range of CPU Utilization of 25% - 35% and train the ML models, you can use gennormdata.yml. 
 
